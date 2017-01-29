@@ -1,5 +1,5 @@
-FROM wehkamp/alpine:3.4
-LABEL container.name="wehkamp/consul:0.7.3"
+FROM alpine:3.4
+LABEL container.name="baffolobill/consul:0.7.3"
 
 ENV CONSUL_VERSION 0.7.3
 
